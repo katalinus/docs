@@ -214,3 +214,4 @@ List of people who are working on closed loops:
 - Andrew Warrington (Alsace, France)
 - Kelsey Yearick (Crook, Colorado)
 - Marcel Zandvliet (The Hague, The Netherlands)
+- Katalin Szekeres-Csiki (Pécs, Hungary)
